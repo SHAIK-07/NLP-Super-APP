@@ -63,4 +63,4 @@ streamlit run app.py
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/ba71522a-d4c8-45e0-862e-ad1eadfafcd6)
 ## DEMO
---[NLP APPLICATION](https://huggingface.co/spaces/SHAIKT07/NLP_Super_APP)
+--[NLP APPLICATION](https://nlp-super-app-ditdbcfptlgwd7ee4crsth.streamlit.app/)
